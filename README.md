@@ -1,0 +1,2 @@
+# azuredb
+zip Benzeri Uygulama
